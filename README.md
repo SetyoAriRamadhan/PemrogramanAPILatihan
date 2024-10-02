@@ -4,7 +4,7 @@
 |--|--|
 | NIM | 22104410029 |
 | Nama Lengkap | Setyo Ari Ramadhan |
-| Kelas | TI-4A |
+| Kelas | TI-5A |
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
 
 # SISTEM OPERASI
